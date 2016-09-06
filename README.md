@@ -20,68 +20,68 @@ I preferred weaker glue so in case the pieces get stuck, at least the wall can b
 ## Preparation
 ## Printing the pieces
 * the parts have been created with Printing-Process-Restrictions in mind.
-.* no support structure needed
+  * no support structure needed
 * Settings to produce good results
-.* layer-height 0.1 - 0.15 (bigger will consume all of the 0.1 mm part-spacing)
-.* 0.4 nozzle is fine
-.* heated bed / fan is helpfull
-.* PLA works perfectly since grease / oil / water / spray-paint wont harm it, and sanding can be done to reduce printed ripples
-.* the basic mold parts should be printed as strong as possible
-..* min. 35% infill (50% infilled parts might survive about 5-10 casts)
-..* min. 1.2mm walls
-..* stronger is better, since demolding can be slightly forcefull
+  * layer-height 0.1 - 0.15 (bigger will consume all of the 0.1 mm part-spacing)
+  * 0.4 nozzle is fine
+  * heated bed / fan is helpfull
+  * PLA works perfectly since grease / oil / water / spray-paint wont harm it, and sanding can be done to reduce printed ripples
+  * the basic mold parts should be printed as strong as possible
+    * min. 35% infill (50% infilled parts might survive about 5-10 casts)
+    * min. 1.2mm walls
+    * stronger is better, since demolding can be slightly forcefull
 
-.* print the 4 side-walls in one row using the side_wall_quadro.stl, they stabilize each other and no overhang issues occur
-..* carefully tilting the 4 connected pieces, repeatingly will separate them eventually
+  * print the 4 side-walls in one row using the side_wall_quadro.stl, they stabilize each other and no overhang issues occur
+    * carefully tilting the 4 connected pieces, repeatingly will separate them eventually
 
 ## How-to create one brick
 ### Tools / Material
 * nicely fitting (assembled) mold, with attached (glued) modifications
-.* opt. mold-release agent (e.g. WD40, Silikon Spray, Butter)
+  * opt. mold-release agent (e.g. WD40, Silikon Spray, Butter)
 * a spoon, tough one
 * a bowl to mix the concrete (volume 1 to 1.5 liters)
 * tap-water in a bottle
 * ~ 1.5kg finegrain concrete
-.* up to 8 mm grain size
-.* fast-curing helps
-.* "add-water-only-concrete"
+  * up to 8 mm grain size
+  * fast-curing helps
+  * "add-water-only-concrete"
 * a scale (with tara / tare option)
 * optional mold-release agent (e.g. Silikon Spray, some oil or Butter)
 * optional but recomended dust-protection for your mouth, gloves
 
 ### Mix it / pour it
 * make sure the top is covered by the top_plate_inset
-.* tape or rubberband helps keeping things in place
-.* turn it around so the top becomes the bottom
+  * tape or rubberband helps keeping things in place
+  * turn it around so the top becomes the bottom
 * opt. apply release agent
 * pre-calculate the amount of water required for 1.5 kg according to the concrete-package
 * mix concrete calculated amount of water
-.* stirr it equally - should not be too liquid, rather sticky
-..* the pefect mix will not release any water
-.* pour it spoon by spoon into the mold
-.* if the concrete touches edges or modifications, tap / rattle gently on the walls to remove air-bubbles on the edges
-.* fill until the the concrete touches the upper end of the 45deg inner edge of the plate
-.* smoothen the surface, tapping the walls
+  * stirr it equally - should not be too liquid, rather sticky
+    * the pefect mix will not release any water
+  * pour it spoon by spoon into the mold
+  * if the concrete touches edges or modifications, tap / rattle gently on the walls to remove air-bubbles on the edges
+  * fill until the the concrete touches the upper end of the 45deg inner edge of the plate
+  * smoothen the surface, tapping the walls
 
 # Troubleshooting
 * pieces dont fit at all
-.* please check wall orientation
-.* any support-structure needs to be avoided or removed / sanded
-.* your printer might have over-extrusion
+  * please check wall orientation
+  * any support-structure needs to be avoided or removed / sanded
+  * your printer might have over-extrusion
 
 * pieces fit too tight, break during assembly
-.* check alignment
-.* sand the connecting edges
-.* move the pieces gently, to cause some wear
+  * check alignment
+  * sand the connecting edges
+  * move the pieces gently, to cause some wear
 
 * demolding sucks
-.* yes it does, but your mold will release easier with every cast
-.* tap (with the spoon...) , gently on all edges to cause small movement
+  * yes it does, but your mold will release easier with every cast
+  * tap (with the spoon...) , gently on all edges to cause small movement
 * walls bended a little
-.* the concrete curing exposes heat, this could cause deformation of the PLA
+  * the concrete curing exposes heat, this could cause deformation of the PLA
 
-.* the pieces have a 0.1 mm tolerance to conecting sides and parts, that will care for occuring printing tolerances
-..* if the pieces fit too tight and tend to break, you can sand the edges a little with 120 / 240 sanding-paper
+  * the pieces have a 0.1 mm tolerance to conecting sides and parts, that will care for occuring printing tolerances
+    * if the pieces fit too tight and tend to break, you can sand the edges a little with 120 / 240 sanding-paper
 
 # Licencing
 This project and all files are released under Licence
